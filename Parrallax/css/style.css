@@ -1,0 +1,42 @@
+@charset "utf-8";
+*{
+	margin:0;
+	padding: 0;
+}
+.estatico{
+	position: fixed;
+	width: 100%;
+	background-color: blueviolet;
+	background-size: 100px;
+	color: ghostwhite;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	font-size: 6em;
+	text-align: center;
+	
+	
+	
+}
+.banner{
+	background-image: url(https://www.thefonthunter.com/tienda/wp-content/uploads/sites/4/2015/10/10_neon_love_color_morado-1400x900.jpg);
+	height: 500px;
+	background-size: 100%;
+	background-attachment: fixed;
+	}
+
+.icono{
+	float: left;
+	width: 33%;
+}
+
+img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+.icono p{
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	text-align: center;
+	
+}
+	
